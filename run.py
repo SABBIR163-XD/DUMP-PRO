@@ -18,7 +18,7 @@ except ImportError:
 	print('\n [×] Bs4 module not installed!...\n')
 	os.system('pip install bs4')
 
-def mind():
+def demon():
         bit = platform.architecture()[0]
         if bit == '64bit':
             print('\x1b[1;92m[✓] Congratulations Your Device Support This Tools!')
