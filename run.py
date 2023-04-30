@@ -27,10 +27,10 @@ def mind():
             os.system('clear')
             print('\x1b[1;92m[✓] Join My Facebook Group  ')
             time.sleep(2)
-           os.system(f'xdg-open https://facebook.com/groups/587970852914505/')
-           os.system('pip install requests')
-           os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
-           os.system('clear')
+            os.system(f'xdg-open https://facebook.com/groups/587970852914505/')
+            os.system('pip install requests')
+            os.system('pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests')
+            os.system('clear')
             import XD
         else:
             exit('\033[1;31m[×] Sorry, Your Device Not Support This Tool')
