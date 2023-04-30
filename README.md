@@ -20,6 +20,8 @@
 - `python run.py`
 
 
+- `NOTE THIS :- THIS TOOLS FULL COADED BY : SABBIR AHMED 🖤
+SO DON'T TRY DECOMPILE & CYTHON REVERSE BEACUSE I WILL FUCKED HIM! ❤️`
 
  ___This Tools is Free___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.DEMON-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801940867049)
