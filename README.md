@@ -1,4 +1,4 @@
-<h1 align="center"> [MR DEMON]</h1>
+<h1 align="center"> [MR MIND]</h1>
 
 <h2 align="center">  FILE MAKING MENU </h2>
 
@@ -24,5 +24,5 @@
 SO DON'T TRY DECOMPILE & CYTHON REVERSE BEACUSE I WILL FUCKED HIM! ❤️`
 
  ___This Tools is Free___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.DEMON-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801940867049)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.MIND-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801940867049)
  
